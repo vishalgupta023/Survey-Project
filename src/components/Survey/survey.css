@@ -1,0 +1,32 @@
+.survey-card-wrapper{
+    padding:  20px 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color:  #BC0A0F;
+}
+
+.survey-home{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.surveyCard-left-box h2{
+    color: #fff;
+}
+.surveyCard-left-box p{
+    color: #AF9F30;
+}
+.surveyCard-right-box{
+    display: flex;
+    gap: 15px;
+}
+.surveyCard-right-box button{
+    background-color: #AF9F30;
+}
+.home-main{
+    background-color: #EFEEE9;
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px 0px;
+}

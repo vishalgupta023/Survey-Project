@@ -1,0 +1,30 @@
+.main-header{
+    background-image: linear-gradient(to right, #AF9F30,#EFEEE9);
+}
+
+.header{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.head-right{
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+.header  h1{
+    /* background: linear-gradient(to left, rgb(106, 8, 106),red);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    color: #BC0A0F;
+}
+.head-right button{
+    padding: 8px 15px;
+    background-color:#BC0A0F;
+    color:  white;
+    border: none;
+    border-radius: 4px;
+}
